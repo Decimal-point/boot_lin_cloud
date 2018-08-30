@@ -1,0 +1,9 @@
+server:
+  port: 3399
+spring:
+  application:
+    name: object-privider
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:3035/eureka/

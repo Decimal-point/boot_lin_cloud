@@ -7,3 +7,6 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:3035/eureka/  #/eureka的注册地址/
+hystrix:
+  metrics:
+    enabled: true #必须手动开启

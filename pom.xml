@@ -6,12 +6,14 @@
 
     <groupId>com.lin.boot</groupId>
     <artifactId>boot_lin_cloud</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>eureka_service</module>
         <module>interface_common</module>
         <module>object_consumer</module>
         <module>object_privider</module>
+        <module>service_fallback</module>
     </modules>
 
 </project>

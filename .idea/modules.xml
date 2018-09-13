@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot_lin_cloud.iml" filepath="$PROJECT_DIR$/boot_lin_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_service/eureka_service.iml" filepath="$PROJECT_DIR$/eureka_service/eureka_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_common/interface_common.iml" filepath="$PROJECT_DIR$/interface_common/interface_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object_consumer/object_consumer.iml" filepath="$PROJECT_DIR$/object_consumer/object_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object_privider/object_privider.iml" filepath="$PROJECT_DIR$/object_privider/object_privider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_fallback/service_fallback.iml" filepath="$PROJECT_DIR$/service_fallback/service_fallback.iml" />
+    </modules>
+  </component>
+</project>
